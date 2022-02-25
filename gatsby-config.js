@@ -11,7 +11,7 @@ module.exports = {
     siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
     siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
     siteUrl: `https://frizler.co`,
-    siteDescription: ``,
+    siteDescription: `Ido Frizler - personal website`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
@@ -27,7 +27,7 @@ module.exports = {
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
         short_name: `Ido Frizler`,
-        description: ``,
+        description: `Ido Frizler - personal website`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
